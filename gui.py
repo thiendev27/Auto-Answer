@@ -182,7 +182,7 @@ class Ui_MainWindow(object):
             self.preAnswer.clear()
             [self.preAnswer.append(f"{i + 1}. {a}") for i, a in enumerate(self.doc.answer)].clear()
     def working(self):
-        self.updateStt("Trạng thái: Hãy chọn đầy đủ file để bắt đầu tiến hành!")
+        self.updateStt("Trạng thái: Đang thực hiện!")
         self.doc.makeDocument()
         thread = threading.Thread(target=self.progressUpdate)
         thread.start()

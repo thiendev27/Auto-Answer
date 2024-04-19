@@ -1,1 +1,6 @@
 /output
+/__pycache__
+app.iss
+gui.spec
+icon.ico
+requirement.txt

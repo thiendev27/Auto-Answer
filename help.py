@@ -37,10 +37,10 @@ class Ui_Form(object):
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:\'Leelawadee UI\'; font-size:14px; font-weight:400; font-style:normal;\">\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:12px; font-style: italic; font-weight:bold;\">Hiện vẫn còn một số trục trặc/lỗi! (dev lười sửa :3)</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14px;\">1. Bắt đầu sử dụng bằng cách nhấn nút &quot;Bắt đầu!&quot;</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14px;\">2. Khi hộp thoại chọn file hiện lên, file đầu tiên sẽ là đề, file sau là đáp án</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14px;\">3. Sau khi chọn xong file, hãy nhấn &quot;Tiến hành&quot; để quá trình tự động xử lí</span></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14px;\">4. Sau khi xử lí xong, hộp thoại lưu file sẽ hiện lên, chọn tên, thư mục muốn lưu rồi ấn &quot;Save&quot; (hoặc &quot;Lưu&quot;).</span></p></body></html>"))
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14px;\">1. Để làm việc cần có đủ file, bao gồm: File đề, đáp án.</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14px;\">2. Thực hiện chọn file bằng cách ấn vào &quot;Chọn file đề&quot; và &quot;Chọn đáp án&quot;</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14px;\">3. Sau khi chọn xong file, hãy nhấn &quot;Tiến hành&quot; để quá trình tự động xử lí.</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14px;\">4. Sau khi xử lí xong, nếu muốn lưu hãy ấn vào &quot;Lưu&quot; rồi nhập tên tệp, sau đó ấn &quot;Save&quot; (Hoặc &quot;Lưu&quot;).</span></p></body></html>"))
         self.label_2.setText(_translate("Form", "### Auto Answer written by thiendev ###"))
 
 class HelpWindow:
